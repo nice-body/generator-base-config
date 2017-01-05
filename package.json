@@ -1,0 +1,40 @@
+{
+  "name": "generator-base-config",
+  "version": "0.0.1",
+  "description": "用于 web 应用的一些基本配置",
+  "files": [
+    "app",
+    "editorconfig",
+    "eslint",
+    "gitignore",
+    "iconfont",
+    "npm",
+    "stylelint",
+    "tslint",
+    "typescript"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nice-body/generator-base-config.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "nice-body <neone2011@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nice-body/generator-base-config/issues"
+  },
+  "homepage": "https://github.com/nice-body/generator-base-config#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "dependencies": {
+    "yeoman-generator": "^1.0.1"
+  }
+}
