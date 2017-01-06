@@ -1,6 +1,5 @@
 # generator-base-config
-用于 web 应用的一些基本配置
-
+这是一个 yeoman generator ，用于生成 web 应用的一些基本配置。
 默认的 generator 会调用 editorconfig 、 eslint 、 gitignore 、 stylelint 这几个 sub-generator 。
 
 共有如下几个 sub-generator ：
